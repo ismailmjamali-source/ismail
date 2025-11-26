@@ -3,6 +3,8 @@
   "description": "A template for building a React application with Vite, Hono, and Cloudflare Workers",
   "private": true,
   "dependencies": {
+    "@tanstack/react-router": "^1.139.7",
+    "@tanstack/react-router-devtools": "^1.139.7",
     "hono": "4.10.7",
     "react": "19.2.0",
     "react-dom": "19.2.0"
@@ -10,6 +12,7 @@
   "devDependencies": {
     "@cloudflare/vite-plugin": "1.15.3",
     "@eslint/js": "9.39.1",
+    "@tanstack/router-plugin": "^1.139.7",
     "@types/node": "24.10.1",
     "@types/react": "19.2.7",
     "@types/react-dom": "19.2.3",
