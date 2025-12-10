@@ -13,7 +13,14 @@
 		{
 			"binding": "ismail_d1",
 			"database_name": "ismail-d1",
-			"database_id": "4c1af4fe-1d68-4c17-b3e7-4ee5b9937b43"
+			"database_id": "4c1af4fe-1d68-4c17-b3e7-4ee5b9937b43",
+			"migrations_dir": "migrations"
+		},
+		{
+			"binding": "ismail1_d1",
+			"database_name": "ismail1-d1",
+			"database_id": "13bea201-6bd6-4d17-ae7f-332510c80c6e",
+			"remote": true
 		}
 	],
 	"upload_source_maps": true,
