@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "tm",
+	"name": "ismail",
 	"main": "./src/worker/index.ts",
 	"compatibility_date": "2025-06-17",
 	"compatibility_flags": [
@@ -11,10 +11,9 @@
 	},
 	"d1_databases": [
 		{
-			"binding": "DB",
-			"database_name": "tm-d1",
-			"database_id": "0122c898-3541-43a8-8bd2-52a2e0081acc",
-			"migrations_dir": "drizzle"
+			"binding": "ismail_d1",
+			"database_name": "ismail-d1",
+			"database_id": "4c1af4fe-1d68-4c17-b3e7-4ee5b9937b43"
 		}
 	],
 	"upload_source_maps": true,
