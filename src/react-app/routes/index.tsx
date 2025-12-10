@@ -1,5 +1,6 @@
 import { createFileRoute, Link, redirect } from "@tanstack/react-router";
 import { Button } from "@/components/ui/button";
+import {ModeToggle} from "@/components/mode-toggle";
 import {
   ListTodo,
   Zap,
@@ -54,6 +55,7 @@ function LandingPage() {
             <Button asChild>
               <Link to="/sign-up">Get Started</Link>
             </Button>
+            <ModeToggle/>
           </div>
         </div>
       </nav>

@@ -2,7 +2,7 @@
 
 A full-stack Task Manager application built as part of the **Advanced Full Stack Development & Software Testing** course. This project demonstrates modern web development practices using React, Hono, and Cloudflare Workers.
 
-🌐 **Live Demo:** [https://tm.ehtishamsajjad.com/](https://tm.ehtishamsajjad.com/)
+🌐 **Live Demo:** [https://tm.muhammadismail.workers.dev/](https://tm.muhammadismail.workers.dev/)
 
 📚 **Course Documentation:** [AFST Course](https://github.com/ehtishamsajjad/afst)
 
@@ -52,8 +52,8 @@ A full-stack Task Manager application built as part of the **Advanced Full Stack
 
 ```bash
 # Clone the repository
-git clone https://github.com/ehtishamsajjad/tm.git
-cd tm
+git clone https://github.com/ismailmjamali-source/ismail.git
+cd ismail
 
 # Install dependencies
 bun install
@@ -114,7 +114,6 @@ This project is licensed under the Apache Version 2 License - see the [LICENSE](
 
 ## 👨‍💻 Author
 
-**Ehtisham Sajjad** - Senior Software Engineer
+**Muhammad Ismail**
 
-- LinkedIn: [@ehtishamsajjad](https://www.linkedin.com/in/ehtishamsajjad/)
-- Email: [hi@ehtishamsajjad.com](mailto:hi@ehtishamsajjad.com)
+- Email: [hi@ismail.com](mailto:hi@ismail.com)
